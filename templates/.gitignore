@@ -1,0 +1,44 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment directories
+venv/
+env/
+.env/
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore Windows system files
+AppData/
+Application Data/
+Cookies/
+Documents/My Music/
+Documents/My Pictures/
+Documents/My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
